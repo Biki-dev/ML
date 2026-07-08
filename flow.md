@@ -4,3 +4,7 @@ datacleaning
 datavisualization
 supervised unsupervised reinforcement ml overview
 Scikit-learn overview
+Linear
+Logistic
+KNN
+SVM
